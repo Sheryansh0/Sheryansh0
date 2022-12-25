@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHREYANSH</h1>
 
-<img align="right" alt="coding"width="400"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+
 - 🌱 I’m currently learning **C,PYTHON**
 
 - 📫 How to reach me **bachchushreyansh@gmail.com**
