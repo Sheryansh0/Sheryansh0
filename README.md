@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHREYANSH</h1>
 
 
-- 🌱 I’m currently learning **C,PYTHON**
+- 🌱 I’m currently learning **C, C++, JAVA, PYTHON**
 
 - 📫 How to reach me **bachchushreyansh@gmail.com**
 
